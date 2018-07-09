@@ -5,6 +5,6 @@
 		"Temperature": "65°C",
 		"Workorder": "'4001720"
 	},
-	"Model3D": "https://github.com/kiraka42/Container/blob/master/c222.scn",
+	"Model3D": "https://github.com/kiraka42/Container/blob/master/c222.scn?raw=true",
 	"IoT": "http://iot4swim.mybluemix.net/CentrifugalPumpData"
 }
